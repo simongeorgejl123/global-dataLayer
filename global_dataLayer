@@ -1,0 +1,22 @@
+{
+    "page": {
+        "locale": {
+            "country": "uk",
+            "currency": "gbp",
+            "language": "en-gb"
+        },
+        "pageInfo": {
+            "breadCrumb": [
+                {
+                    "value": "",
+                    "clickable": 1
+                }
+            ],
+            "pageName": "",
+            "pageType": "",
+            "previousPageType": "",
+            "previousPageName": ""
+        }
+    },
+    
+}
